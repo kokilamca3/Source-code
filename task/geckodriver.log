@@ -1,0 +1,137 @@
+1620724656001	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Airtel\\AppData\\Local\\Temp\\rust_mozprofile13juB7"
+1620724667433	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1620724684835	Marionette	INFO	Listening on port 56038
+1620724685458	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620724694661	Marionette	INFO	Stopped listening on port 56038
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620724729836	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Airtel\\AppData\\Local\\Temp\\rust_mozprofile7gl77M"
+1620724733432	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1620724758894	Marionette	INFO	Listening on port 56101
+1620724785448	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 376, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1620724870572	Marionette	INFO	Stopped listening on port 56101
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620724980082	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Airtel\\AppData\\Local\\Temp\\rust_mozprofilehWaF91"
+1620724985740	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1620725009711	Marionette	INFO	Listening on port 56242
+1620725011209	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620725068460	Marionette	INFO	Stopped listening on port 56242
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620725091710	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Airtel\\AppData\\Local\\Temp\\rust_mozprofilep7nOeb"
+1620725095736	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1620725113725	Marionette	INFO	Listening on port 56341
+1620725115987	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+[Parent 10176, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1620725176145	Marionette	INFO	Stopped listening on port 56341
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620725184245	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Airtel\\AppData\\Local\\Temp\\rust_mozprofilerI3H3K"
+1620725189589	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+[Parent 7712, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1620725210318	Marionette	INFO	Listening on port 56584
+1620725211956	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+1620725283411	Marionette	INFO	Stopped listening on port 56584
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620725347575	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Airtel\\AppData\\Local\\Temp\\rust_mozprofileiMan2d"
+1620725359530	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1620725387790	Marionette	INFO	Listening on port 56788
+1620725389202	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620725405855	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Airtel\\AppData\\Local\\Temp\\rust_mozprofileAC4XUM"
+1620725407505	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620725414207	Marionette	INFO	Listening on port 56859
+1620725414397	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1620725446112	Marionette	INFO	Stopped listening on port 56859
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
